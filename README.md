@@ -1,1 +1,3 @@
-# cms_journal_2
+# Strapi application
+
+A quick description of your strapi application
